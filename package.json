@@ -1,0 +1,15 @@
+{
+  "name": "mocha-spec-issue",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "git@github.com:johansteffner/mocha-spec-issue.git",
+  "author": "Johan Steffner <johan@steffner.nu>",
+  "license": "UNLICENCED",
+  "private": true,
+  "devDependencies": {
+    "mocha": "^6.0.0"
+  }
+}
